@@ -1,0 +1,56 @@
+.regsucess{
+     position: absolute;
+     left: 35%;
+    
+     z-index: 50;
+     text-align: center;
+     border: solid;
+     padding: 20px;
+     background-color: white;
+     border: none;
+     border-radius: 10px;
+     box-shadow: 2px 2px 5px black;
+   
+    
+     transition: 1s;
+
+}
+.regsucess p{
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      letter-spacing: 1px;
+      line-height: 28px;
+      width: 300px;
+}
+.regsucess button{
+     padding: 10px 80px;
+     background-color: rgb(25, 232, 25);
+     border: none;
+     color: white;
+     font-weight: 600;
+     letter-spacing: 2px;
+     font-size: 16px;
+     border-radius: 5px;
+    
+}
+.suctop0{
+     margin-top: 180px;
+}
+.suctop{
+     margin-top: -1000px;
+}
+
+
+
+.invalid{
+    text-align: start;
+    margin: -10px;
+   margin-left: 5px;
+   margin-bottom: 5px;
+   color: red !important;
+}
+
+.eye{
+     top: 126px !important;
+}
